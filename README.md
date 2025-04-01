@@ -1,0 +1,2 @@
+# PHARMA-DRUG-SALES-ANALYSIS-END-TO-END-POWER-BI-PROJECT-DASHBOARD
+overview of the Pharmaceutical Dataset: 1.Dataset showcase the sales data of various drugs from year 2014 to 2019 at different time intervals.  2.57 Drugs have been categorized into 8 categoriesPharma Drug Sales KPI's:  1. Weekly Sales Contribution by N02BE Drug. 2. Highest Count of drug sold on Hourly basis. 3. Total Monthly Sales.
